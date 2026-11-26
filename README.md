@@ -27,3 +27,7 @@ To improve my programming skills and create more interesting projects in the fut
 - 💻 Operating System: Windows 11
 - 🎓 Field: Computer Technology
 - 🚀 Currently improving my programming skills
+
+## 🌟 Keep Learning!
+
+Every expert was once a beginner. Keep coding and never stop learning! 🚀
