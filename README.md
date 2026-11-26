@@ -22,3 +22,8 @@ I am a computer technician student from Slovenia 🇸🇮 who enjoys gaming, com
 To improve my programming skills and create more interesting projects in the future.
 
 
+## 🧰 My Developer Setup
+
+- 💻 Operating System: Windows 11
+- 🎓 Field: Computer Technology
+- 🚀 Currently improving my programming skills
